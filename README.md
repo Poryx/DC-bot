@@ -1,1 +1,1 @@
-# Amelia
+# Discord bot with python by danielsol
