@@ -1,1 +1,1 @@
-# Discord bot with python by danielsol
+# Discord bot with python by danisotosol
